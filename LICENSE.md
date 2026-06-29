@@ -1,4 +1,4 @@
-# 
+# Premium AI Stock Price Predictor préréglages. Avec modèles d'apprentissage profond et IA explicable — optimisé pour des performances maximales.
 
 
 
